@@ -5,10 +5,6 @@ U21 Unity Takımı
 
 ## Takım Üyeleri
 - ***Ahmet Yunus Turna*** - Product Owner
-- ***Arif Furkan Karaca*** - Developer
-- ***Hilal Karakuş*** - Scrum Master
-- ***Kevser Bilgiç*** - Developer
-- ***Umut Yiğit*** - Developer
 
 ## Oyun İsmi
 Cherry Chasers
@@ -43,9 +39,9 @@ amaçladıkları bir 3D, üçüncü şahıs, arena brawl oyunudur.
 Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="en" data-id="a/tT5yDdA"  ><a href="//imgur.com/a/tT5yDdA">Whatsapp</a></blockquote>
 
 - **Tasarım ve Developing Mantığı**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
-- **Tasarım Grubu Üyeleri**: Arif, Kevser, Hilal.
-- **Sprint 1 board update**: Sprint Board Screenshot: 
-![Backlog 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/IMG-20230618-WA0007.jpg)
+
+
+
 
 
 
@@ -75,21 +71,6 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 
   - **Toplantı ve Whatsapp ScreenShotları**:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/12umyrv"  ><a href="//imgur.com/a/12umyrv">SPRINT2</a></blockquote>
-
-
-
-- **Sprint 2 board update**: Sprint 2 Board Screenshot: 
-![Backlog 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Trello%20sprint%202.png)
-
-
-
-
-
-
-- **Ürün Durumu**: Ekran Görüntüleri:
-
-
-
 
 
 - **Sprint Review**:
@@ -127,12 +108,10 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
   - Takım ruhunu koruyup Scrum boyunca özveriyle çalışıldığı için takım üyeleri birbirini tebrik etti.
   - 5 karakter tasarımı, 3 adet map tasarımı, birden fazla platform kodları, farklı mekanikler, karakter ve platform animasyonları, online server sistemi, 3d tasarım assetleri, kamera entegrasyonu ve reklam entegrasyonu yapılmıştır.
   - Tamamlanması gereken 36 puanlık backlog puanı tamamlanmıştır.
-  - Sprint Review katılımcıları: Ahmet Yunus Turna, Arif Furkan Karaca, Kevser Bilgiç, Umut Yiğit, Hilal Karakuş.
 
 
-- **Sprint Retrospective:**
 
-  - Gelecek projelerde iletişimde kalınacağına dair konuşmalar yapıldı.
+
  
     
 ---# CherryChasersCodes

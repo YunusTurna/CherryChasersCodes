@@ -120,16 +120,7 @@ Toplantı ve Whatsapp ScreenShotları <blockquote class="imgur-embed-pub" lang="
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/0d2e9807-e50d-42a9-9800-2ca6bec1e337.gif)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-17%2001.09.33.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-13%2015.41.56.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-13%2015.41.41.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-13%2002.28.09.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-15%20at%2020.11.59.jpeg)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/WhatsApp%20Image%202023-07-13%20at%2020.51.08.jpeg)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-17%2009.26.19.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-17%2009.28.44.png)
-  ![Screenshot 1](https://github.com/YunusTurna/CherryChaser/blob/main/ProjectManagement/Ekran%20Resmi%202023-07-17%2009.34.27.png)
+
   
 - **Sprint Review**: 
 
